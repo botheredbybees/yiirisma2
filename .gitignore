@@ -1,4 +1,6 @@
 assets/
+!assests/placeholder.txt
 protected/runtime/
+!protected/runtime/placeholder.txt
 themes/classic/views/
 /nbproject
