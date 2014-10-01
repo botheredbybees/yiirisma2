@@ -1,1 +1,0 @@
-git won't create empty directories, but yii requires a runtime directory so this file ensures that it gets included in the repository
